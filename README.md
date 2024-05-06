@@ -80,3 +80,20 @@
 - [x]  [2389](https://www.beecrowd.com.br/repository/UOJ_2389.html) - [Floresta](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2010/2389.cpp)
 - [x]  [2390](https://www.beecrowd.com.br/repository/UOJ_2390.html) - [Escada Rolante](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2010/2390.cpp)
 
+
+## 2002 e 2003
+
+- [x]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - [Aeroporto](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2227aeroporto.cpp)
+- [x]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - [Caça ao Tesouro](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2228tesouro.cpp)
+- [x]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - [Dobradura](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2229dobradura.cpp)
+- [x]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - [Pedágio](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2230pedagio.cpp)
+- [x]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - [Temperatura Lunar](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2231tempLunar.cpp)
+- [x]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - [Cofrinhos da Vó Vitória](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2247cofrinhos.cpp)
+- [x]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - [Estágio](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2248estagio.cpp)
+- [x]  [2249](https://www.beecrowd.com.br/repository/UOJ_2249.html) - [Número de Erdos](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2249erdos.cpp)
+- [x]  [2250](https://www.beecrowd.com.br/repository/UOJ_2250.html) - [Tetris](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2250tetris.cpp)
+- [x]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - [Torres de Hanói](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/2251hanoi.cpp)
+- [x]  [3043](https://www.beecrowd.com.br/repository/UOJ_3043.html) - [Festa Junina](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/3043festajunina.cpp)
+- [x]  [3044](https://www.beecrowd.com.br/repository/UOJ_3044.html) - [Manutenção](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/3044manuntencao.cpp)
+- [x]  [3045](https://www.beecrowd.com.br/repository/UOJ_3045.html) - [Parque Jurássico](https://github.com/MilenaBMaciel/Questoes-OBI/blob/main/2002%20e%202003/3045jurassico.cpp)
+- [ ]  [3064](https://www.beecrowd.com.br/repository/UOJ_3064.html) - Elástico
